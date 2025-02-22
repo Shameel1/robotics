@@ -77,6 +77,7 @@ To utilize a specific module:
 
 - **Control Robot Arm Notebook:** Explore the `Control robot arm.ipynb` Jupyter Notebook for advanced control techniques and simulations.
 - **Presentation Slides:** Refer to `Presentation.pdf` for a comprehensive overview of the course content and key concepts.
+- **SVG to Gcode converter:** [Link to svg2gcode](https://sameer.github.io/svg2gcode/)
 
 ## Contact Information
 
